@@ -1,0 +1,2 @@
+Admin side is working but the Librarian side isn't functioning properly. When choosing Librarian it will promp the renting system even before login, Librarian login
+side is working so is the renting, it just shows without signing in when using Librarian.
